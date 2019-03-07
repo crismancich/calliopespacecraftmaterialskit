@@ -14,7 +14,7 @@ Boris was invited to hold a workshop at ESERO (European Space Education and Rese
 
 ![Picture of Spacecraft Materials Kit](https://raw.githubusercontent.com/crismancich/calliopespacecraftmaterialskit/master/esa_spacecraft_materials_kit.jpg)
 
-#License
+# License
 ![CC0 License](http://i.creativecommons.org/p/zero/1.0/88x31.png)
 To the extent possible under law, Boris Crismancich has waived all copyright and related or neighboring rights to calliopespacecraftmaterialskit. This work is published from: Deutschland.
 
