@@ -12,5 +12,7 @@ ESERO and calliope agreed that it would be an interesting Project to combine the
 ## 2019-02-26 Calliope Workshop at ESERO Bochum
 Boris was invited to hold a workshop at ESERO (European Space Education and Research Office) at Ruhr Universität of Bochum. Boris met Sophie-Charlotte and they decided to start a Calliope Mini education project together. After the Workshop, ESERO provided Boris and Sophie-Charlotte with a Spacecraft Materials Kit. This was how the idea was born.
 
+![Picture of Spacecraft Materials Kit](https://raw.githubusercontent.com/crismancich/calliopespacecraftmaterialskit/master/esa_spacecraft_materials_kit.jpg)
+
 
 
