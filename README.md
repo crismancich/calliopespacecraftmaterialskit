@@ -1,5 +1,5 @@
 # Calliope Mini meets ESA Spacecraft Materials Kit
-In this work in progress we combine the ESA Spacecraft Materials Kit and Calliope Mini. Our goal is to provide OER (open educational ressources) material for schools. We like the idea that Kids learn to code and use code to learn more about earth and space.
+In this work in progress we combine the [ESA Spacecraft Materials Kit](http://www.esa.int/Education/Teachers_Corner/Spacecraft_materials_kit_-_Discovering_the_different_properties_of_materials_Teach_with_space_PR07) and [Calliope Mini](https://www.calliope.cc). Our goal is to provide OER (open educational ressources) material for schools. We like the idea that Kids learn to code and use code to learn more about earth and space.
 
 # Project Diary
 
@@ -13,6 +13,10 @@ ESERO and calliope agreed that it would be an interesting Project to combine the
 Boris was invited to hold a workshop at ESERO (European Space Education and Research Office) at Ruhr Universität of Bochum. Boris met Sophie-Charlotte and they decided to start a Calliope Mini education project together. After the Workshop, ESERO provided Boris and Sophie-Charlotte with a Spacecraft Materials Kit. This was how the idea was born.
 
 ![Picture of Spacecraft Materials Kit](https://raw.githubusercontent.com/crismancich/calliopespacecraftmaterialskit/master/esa_spacecraft_materials_kit.jpg)
+
+#License
+![CC0 License](http://i.creativecommons.org/p/zero/1.0/88x31.png)
+To the extent possible under law, Boris Crismancich has waived all copyright and related or neighboring rights to calliopespacecraftmaterialskit. This work is published from: Deutschland.
 
 
 
